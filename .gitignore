@@ -8,3 +8,4 @@
 .vscode/
 *.csproj
 *.sln
+*.slnx
